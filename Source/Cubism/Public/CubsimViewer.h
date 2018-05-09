@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "UObject/NoExportTypes.h"
+#include <Tickable.h>
 #include "CubsimViewer.generated.h"
 
 /**
