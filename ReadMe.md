@@ -1,3 +1,11 @@
+It's been a long time since last update, as Cubism sdk changed a lot. I give a full rewrite to the logic part and render part. 
+
+Using global shader will no longer give a fps drop while render live2d model, you can find the new plugin here:
+
+[https://github.com/Arisego/UnrealLive2D](https://github.com/Arisego/UnrealLive2D)
+
+-----
+
 # Live2D plugin for UE4
 
 This is a WIP UE4 plugin for Live2D model.
